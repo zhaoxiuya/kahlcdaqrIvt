@@ -1,3 +1,3 @@
-![concatenated_image](https://github.com/user-attachments/assets/18f6f94e-67e8-4300-a774-30a9aa1ec1bf)
+![random_merged_image](https://github.com/user-attachments/assets/7947f6d9-01b2-4525-bc77-79338356f1d8)
 
 칼츠 숫자 기계 학습을 위한 데이터셋입니다
